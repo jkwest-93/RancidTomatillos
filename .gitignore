@@ -10,7 +10,6 @@
 
 # production
 /build
-# .travis.yml
 
 # misc
 .DS_Store
